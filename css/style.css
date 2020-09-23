@@ -5,7 +5,7 @@ header{
   
 }
 
-#logo{
+header img{
   margin: 1%;
   margin-left: 281px;
 
@@ -25,21 +25,21 @@ li{
 
 }
 
-#x960{
+main div {
   text-align: center;
   margin-top: 30px;
 }
 
-.imag2{
+main section img{
   margin-right: 30px;
 }
 
-#x300{
+section{
   margin-left: 277px;
   margin-top: 30px;
 }
 
-#img400{
+main div div {
   text-align: left;
   margin-left:18.19%;
   display: flex;
